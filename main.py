@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os, requests, sys, time
 from colorama import init, Fore, Style
 from concurrent.futures import ThreadPoolExecutor
