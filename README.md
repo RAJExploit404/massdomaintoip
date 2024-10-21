@@ -1,2 +1,2 @@
-# massdomaintoip
-Tools Mass Domain To IP, Coded By Rajexploit404
+# Mass Domain To Ip
+Simple Tools Convert Domain To ip Fast, Built From Python3
